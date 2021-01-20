@@ -1,7 +1,7 @@
 # Compensating Non-uniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics
 
 ## Requirements
-Python >= 3.0
+Python >= 3.0,
 Pytorch >= 1.1.0
 
 ## Usage
