@@ -1,7 +1,7 @@
 # Compensating Non-uniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics
 
 ## Requirements
-Python >= 3.0,
+Python >= 3.0,  
 Pytorch >= 1.1.0
 
 ## Usage
@@ -10,5 +10,5 @@ Pytorch >= 1.1.0
 3. Run compensation_and_simulation.py
 
 ## Folder description
-/model contains a RCTCN model written by Pytorch.
+/model contains a RCTCN model written by Pytorch.  
 /checkpoint contains a pretrained weight set for RCTCN model.
