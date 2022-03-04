@@ -18,4 +18,13 @@ Pytorch >= 1.1.0
 /checkpoint contains a pretrained weight set for RCTCN model.
 
 ## Citation
-
+@article{koh2021compensating,
+  title={Compensating Nonuniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics},
+  author={Koh, Jaihyun and Kang, Kyeongsoo and Shin, Chaehun and Lee, Soo-Yeon and Yoon, Sungroh},
+  journal={IEEE Transactions on Electron Devices},
+  volume={68},
+  number={7},
+  pages={3396--3402},
+  year={2021},
+  publisher={IEEE}
+}
