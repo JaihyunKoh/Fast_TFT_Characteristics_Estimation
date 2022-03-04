@@ -1,11 +1,11 @@
 # Compensating Non-uniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics
 
 ## Overview
-Project Page : http://data.snu.ac.kr/OLED_external_compensation/
+Project Page : http://data.snu.ac.kr/OLED_external_compensation/ <br>
 Paper : https://ieeexplore.ieee.org/abstract/document/9437473
 
 ## Requirements
-Python >= 3.0,  
+Python >= 3.0 <br>
 Pytorch >= 1.1.0
 
 ## Usage
@@ -18,13 +18,13 @@ Pytorch >= 1.1.0
 /checkpoint contains a pretrained weight set for RCTCN model.
 
 ## Citation
-@article{koh2021compensating,
-  title={Compensating Nonuniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics},
-  author={Koh, Jaihyun and Kang, Kyeongsoo and Shin, Chaehun and Lee, Soo-Yeon and Yoon, Sungroh},
-  journal={IEEE Transactions on Electron Devices},
-  volume={68},
-  number={7},
-  pages={3396--3402},
-  year={2021},
-  publisher={IEEE}
+@article{koh2021compensating,<br>
+    title={Compensating Nonuniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics},<br>
+     author={Koh, Jaihyun and Kang, Kyeongsoo and Shin, Chaehun and Lee, Soo-Yeon and Yoon, Sungroh},<br>
+     journal={IEEE Transactions on Electron Devices},<br>
+    volume={68},<br>
+    number={7},<br>
+    pages={3396--3402},<br>
+     year={2021},<br>
+     publisher={IEEE}<br>
 }
