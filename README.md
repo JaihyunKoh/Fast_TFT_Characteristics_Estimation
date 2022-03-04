@@ -1,7 +1,7 @@
 # Compensating Non-uniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics
 
 ## Overview
-Project Page : http://data.snu.ac.kr/OLED_external_compensation/
+Project Page : http://data.snu.ac.kr/OLED_external_compensation/,
 Paper : https://ieeexplore.ieee.org/abstract/document/9437473
 
 ## Requirements
