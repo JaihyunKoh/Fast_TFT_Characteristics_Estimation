@@ -19,14 +19,13 @@ Pytorch >= 1.1.0
 
 ## Citation
 ```
-@article{koh2021compensating,<br>
-    title={Compensating Nonuniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics},<br>
-     author={Koh, Jaihyun and Kang, Kyeongsoo and Shin, Chaehun and Lee, Soo-Yeon and Yoon, Sungroh},<br>
-     journal={IEEE Transactions on Electron Devices},<br>
-    volume={68},<br>
-    number={7},<br>
-    pages={3396--3402},<br>
-     year={2021},<br>
-     publisher={IEEE}<br>
-}
+@ARTICLE{9437473,
+  author={Koh, Jaihyun and Kang, Kyeongsoo and Shin, Chaehun and Lee, Soo-Yeon and Yoon, Sungroh},
+  journal={IEEE Transactions on Electron Devices}, 
+  title={Compensating Nonuniform OLED Pixel Brightness in a Vertical Blanking Interval by Learning TFT Characteristics}, 
+  year={2021},
+  volume={68},
+  number={7},
+  pages={3396-3402},
+  doi={10.1109/TED.2021.3079232}}
 ```
